@@ -20,5 +20,10 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0058-length-of-last-word) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
