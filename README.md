@@ -7,6 +7,7 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,6 +16,7 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
