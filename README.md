@@ -20,6 +20,7 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 | [0009-palindrome-number](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0263-ugly-number) |
 ## String
 |  |
@@ -46,4 +47,8 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0657-robot-return-to-origin) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
