@@ -22,6 +22,7 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 | [0066-plus-one](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0263-ugly-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
 | ------- |
@@ -51,4 +52,8 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0069-sqrtx) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
