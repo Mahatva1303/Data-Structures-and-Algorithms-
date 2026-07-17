@@ -8,6 +8,7 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 | ------- |
 | [0001-two-sum](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,4 +57,8 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
