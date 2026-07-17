@@ -1,19 +1,17 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        int buy = prices[0];   // Lowest price seen so far
-        int profit = 0;        // Maximum profit
-
-        for (int i = 1; i < prices.length; i++) {
-
-            // If current price is lower, update buying price
-            if (prices[i] < buy) {
-                buy = prices[i];
-            } else {
-                // Otherwise, calculate profit if sold today
-                profit = Math.max(profit, prices[i] - buy);
-            }
+        int max_profit = 0;
+        int buy_stock = prices[0];
+        for(int i = 1;i<prices.length;i++){
+        int currt_profit = prices[i] - buy_stock;
+        if(currt_profit > max_profit){
+            max_profit = currt_profit;
+        }
+        if(prices[i] < buy_stock){
+            buy_stock = prices[i];
+        }
         }
 
-        return profit;
+        return max_profit;
     }
 }
