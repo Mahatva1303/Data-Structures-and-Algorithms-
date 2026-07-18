@@ -9,6 +9,7 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 | [0001-two-sum](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 | [0066-plus-one](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0263-ugly-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
@@ -56,6 +58,7 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
