@@ -47,6 +47,7 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 | ------- |
 | [0231-power-of-two](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0461-hamming-distance) |
 ## Sorting
 |  |
 | ------- |
