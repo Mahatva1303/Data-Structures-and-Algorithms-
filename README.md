@@ -26,6 +26,7 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 | [0070-climbing-stairs](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0263-ugly-number) |
+| [1154-day-of-the-year](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/1154-day-of-the-year) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
@@ -39,6 +40,7 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 | [0482-license-key-formatting](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0482-license-key-formatting) |
 | [0657-robot-return-to-origin](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0709-to-lower-case) |
+| [1154-day-of-the-year](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/1154-day-of-the-year) |
 ## Stack
 |  |
 | ------- |
