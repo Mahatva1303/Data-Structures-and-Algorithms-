@@ -28,6 +28,7 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 | [0263-ugly-number](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0263-ugly-number) |
 | [1154-day-of-the-year](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/1154-day-of-the-year) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
@@ -55,6 +56,7 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0389-find-the-difference) |
+| [3536-maximum-product-of-two-digits](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
 |  |
 | ------- |
