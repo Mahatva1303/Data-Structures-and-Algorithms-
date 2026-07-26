@@ -9,6 +9,7 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 | [0001-two-sum](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 | [0070-climbing-stairs](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0263-ugly-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1154-day-of-the-year](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/1154-day-of-the-year) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/3536-maximum-product-of-two-digits) |
@@ -56,6 +58,7 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
 |  |
