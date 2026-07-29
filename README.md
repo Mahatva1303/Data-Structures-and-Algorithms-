@@ -37,6 +37,7 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2469-convert-the-temperature](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/2469-convert-the-temperature) |
 | [2525-categorize-box-according-to-criteria](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/2525-categorize-box-according-to-criteria) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/3658-gcd-of-odd-and-even-sums) |
