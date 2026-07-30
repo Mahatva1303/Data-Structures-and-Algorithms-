@@ -41,6 +41,7 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 | [2469-convert-the-temperature](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/2469-convert-the-temperature) |
 | [2525-categorize-box-according-to-criteria](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/2525-categorize-box-according-to-criteria) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/2651-calculate-delayed-arrival-time) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
@@ -56,6 +57,7 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 | [0657-robot-return-to-origin](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0709-to-lower-case) |
 | [1154-day-of-the-year](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/1154-day-of-the-year) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
 | ------- |
@@ -106,4 +108,8 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
