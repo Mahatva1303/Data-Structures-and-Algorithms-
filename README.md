@@ -11,6 +11,7 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0136-single-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -86,6 +87,7 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0069-sqrtx) |
+| [0704-binary-search](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0704-binary-search) |
 ## Number Theory
 |  |
 | ------- |
