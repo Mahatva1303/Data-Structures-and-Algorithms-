@@ -35,6 +35,7 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1154-day-of-the-year](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/1154-day-of-the-year) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/2235-add-two-integers) |
