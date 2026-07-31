@@ -7,3 +7,5 @@ class Solution {
         return -1;
     }
 }
+
+// for interview and more dont use Array.binarySeach liberary make yourself the code using left,right,mid,pointers
