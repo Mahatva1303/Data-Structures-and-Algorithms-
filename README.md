@@ -33,6 +33,7 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 | [0231-power-of-two](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1154-day-of-the-year](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/1154-day-of-the-year) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -87,6 +88,7 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0704-binary-search) |
 ## Number Theory
 |  |
