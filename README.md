@@ -7,6 +7,7 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0136-single-number) |
@@ -89,6 +90,7 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0704-binary-search) |
@@ -119,4 +121,8 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
