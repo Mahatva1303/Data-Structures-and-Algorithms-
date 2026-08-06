@@ -11,6 +11,7 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 | [0066-plus-one](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0704-binary-search) |
@@ -23,6 +24,7 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 | ------- |
 | [0001-two-sum](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0389-find-the-difference) |
 ## Math
 |  |
@@ -77,6 +79,7 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -125,4 +128,13 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
