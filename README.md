@@ -52,6 +52,7 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 | [2651-calculate-delayed-arrival-time](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/2651-calculate-delayed-arrival-time) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
