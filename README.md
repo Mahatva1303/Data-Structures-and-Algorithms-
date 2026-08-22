@@ -8,6 +8,7 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 | ------- |
 | [0001-two-sum](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0136-single-number) |
@@ -109,6 +110,7 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
@@ -132,6 +134,7 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0169-majority-element) |
 ## Counting
 |  |
