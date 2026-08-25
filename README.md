@@ -21,6 +21,7 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 | [0169-majority-element](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0389-find-the-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
 | ------- |
