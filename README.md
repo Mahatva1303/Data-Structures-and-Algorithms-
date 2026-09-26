@@ -72,6 +72,7 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 | [0709-to-lower-case](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0709-to-lower-case) |
 | [1154-day-of-the-year](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/1154-day-of-the-year) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -98,6 +99,7 @@ This repository contains my Data Structures and Algorithms solutions from LeetCo
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/0657-robot-return-to-origin) |
+| [3498-reverse-degree-of-a-string](https://github.com/Mahatva1303/Data-Structures-and-Algorithms-/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
